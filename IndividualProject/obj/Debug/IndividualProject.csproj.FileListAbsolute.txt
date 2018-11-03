@@ -1,0 +1,14 @@
+C:\Users\Nikiforos\source\repos\IndividualProject\IndividualProject\obj\Debug\IndividualProject.csprojAssemblyReference.cache
+C:\Users\Nikiforos\source\repos\IndividualProject\IndividualProject\obj\Debug\IndividualProject.csproj.CoreCompileInputs.cache
+C:\Users\Nikiforos\source\repos\IndividualProject\IndividualProject\bin\Debug\IndividualProject.exe.config
+C:\Users\Nikiforos\source\repos\IndividualProject\IndividualProject\bin\Debug\IndividualProject.exe
+C:\Users\Nikiforos\source\repos\IndividualProject\IndividualProject\bin\Debug\IndividualProject.pdb
+C:\Users\Nikiforos\source\repos\IndividualProject\IndividualProject\obj\Debug\IndividualProject.exe
+C:\Users\Nikiforos\source\repos\IndividualProject\IndividualProject\obj\Debug\IndividualProject.pdb
+C:\Users\Nikiforos\Desktop\Projects\IndividualProject\IndividualProject\bin\Debug\IndividualProject.exe.config
+C:\Users\Nikiforos\Desktop\Projects\IndividualProject\IndividualProject\bin\Debug\IndividualProject.exe
+C:\Users\Nikiforos\Desktop\Projects\IndividualProject\IndividualProject\bin\Debug\IndividualProject.pdb
+C:\Users\Nikiforos\Desktop\Projects\IndividualProject\IndividualProject\obj\Debug\IndividualProject.csprojAssemblyReference.cache
+C:\Users\Nikiforos\Desktop\Projects\IndividualProject\IndividualProject\obj\Debug\IndividualProject.csproj.CoreCompileInputs.cache
+C:\Users\Nikiforos\Desktop\Projects\IndividualProject\IndividualProject\obj\Debug\IndividualProject.exe
+C:\Users\Nikiforos\Desktop\Projects\IndividualProject\IndividualProject\obj\Debug\IndividualProject.pdb
